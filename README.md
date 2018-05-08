@@ -20,4 +20,6 @@ Gerrymandering is serious issue in the U.S. To prevent it, I made web applicatio
 ![](usage3.png)
 6) fill in the preferences, run the algorithm.
 ![](usage4.png)
-7) you can stop algorithm at any point by clicking stop button
+7) you can see the progress of algorithm through console.
+![](usage5.png)
+8) algorithm takes some time. If you want to stop algorithm, click stop button
