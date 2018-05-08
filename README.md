@@ -1,4 +1,4 @@
-# REST-based Twitter service
+# REST-based Congressional districts redistricting web app
 ### Kyeongsoo Kim, Jan 2018 ~ May 2018
 
 ## Introduction
